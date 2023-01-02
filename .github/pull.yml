@@ -1,4 +1,4 @@
-version: "2"
+version: "3"
 rules:
   - base: master
     upstream: jexjws:master    # change `wei` to the owner of upstream repo
